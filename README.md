@@ -1,9 +1,6 @@
 
 # Interrupt Controller Simulation in Java
 
-[![Java](https://img.shields.io/badge/Java-17-blue)](https://www.oracle.com/java/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-
 ## Overview
 This Java program simulates the behavior of an **Interrupt Controller** managing multiple I/O devices with **priorities and masking**. The simulation demonstrates how interrupts are triggered, handled by an **Interrupt Service Routine (ISR)**, and optionally ignored if the device is masked.
 
